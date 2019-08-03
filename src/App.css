@@ -19,6 +19,18 @@
   color: white;
 }
 
+.sanan-img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 171px;
+  width: 180px;
+}
+
+.homepage-paragraph {
+  text-align: center
+}
+
 .App-link {
   color: #61dafb;
 }
