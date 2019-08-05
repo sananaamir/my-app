@@ -15,7 +15,6 @@ class NavigationBar extends Component {
                         <Navbar.Collapse id="basic-navbar-nav">
                             <Nav className="ml-auto">
                                 <Link className="nav-link" to="/">Home</Link>
-                                <Link className="nav-link" to="/contact-me">Contact Me</Link>
                             </Nav>
                         </Navbar.Collapse>
                     </Navbar>
