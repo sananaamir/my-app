@@ -15,7 +15,11 @@ class NavigationBar extends Component {
                         <Navbar.Collapse id="basic-navbar-nav">
                             <Nav className="ml-auto">
                                 <Link className="nav-link" to="/">Home</Link>
+                                <Link className="nav-link" to="/flask-api-result">API Test</Link>
                             </Nav>
+                            {/* <Nav className="ml-auto">
+                                <Link className="nav-link" to="/flask-api-result">API Test</Link>
+                            </Nav> */}
                         </Navbar.Collapse>
                     </Navbar>
                 </Container>
